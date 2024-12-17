@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quote-of-the-day/static/css/main.87bdd96f.css",
+    "main.js": "/Quote-of-the-day/static/js/main.f201fd73.js",
+    "index.html": "/Quote-of-the-day/index.html",
+    "main.87bdd96f.css.map": "/Quote-of-the-day/static/css/main.87bdd96f.css.map",
+    "main.f201fd73.js.map": "/Quote-of-the-day/static/js/main.f201fd73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87bdd96f.css",
+    "static/js/main.f201fd73.js"
+  ]
+}
